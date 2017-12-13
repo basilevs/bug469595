@@ -1,20 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feature
       id="bug469595"
-      label="Feature2"
+      label="Bug 469595"
       version="1.0.5.qualifier">
 
-   <description url="http://www.example.com/description">
-      [Enter Feature Description here.]
+   <description url="https://bugs.eclipse.org/bugs/show_bug.cgi?id=469595">
+      Demonstrates bug https://bugs.eclipse.org/bugs/show_bug.cgi?id=469595
    </description>
 
    <copyright url="http://www.example.com/copyright">
       [Enter Copyright Description here.]
    </copyright>
-
-   <license url="http://www.example.com/license">
-      [Enter License Description here.]
-   </license>
 
    <plugin
          id="bug469595"
