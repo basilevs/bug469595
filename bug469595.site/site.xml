@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <description name="Blah-blah" url="file:/tmp">
+      descr
+   </description>
+   <feature url="features/bug469595_1.0.5.201712131833.jar" id="bug469595" version="1.0.5.201712131833"/>
+</site>

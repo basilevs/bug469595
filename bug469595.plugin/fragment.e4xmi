@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="ASCII"?>
+<fragment:ModelFragments xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:basic="http://www.eclipse.org/ui/2010/UIModel/application/ui/basic" xmlns:commands="http://www.eclipse.org/ui/2010/UIModel/application/commands" xmlns:fragment="http://www.eclipse.org/ui/2010/UIModel/fragment" xmi:id="_BxaXACerEeWxCPrV0pAZQQ">
+  <imports xsi:type="basic:Part" xmi:id="_mMg-gN_uEeeqnLGY5AXP9g" elementId="org.eclipse.ui.console.ConsoleView"/>
+  <imports xsi:type="commands:Command" xmi:id="_0EBg4N_uEeeqnLGY5AXP9g" elementId="org.eclipse.ui.help.aboutAction"/>
+  <imports xsi:type="commands:BindingContext" xmi:id="_kplPUN_yEeeqnLGY5AXP9g" elementId="org.eclipse.ui.console.ConsoleView"/>
+  <fragments xsi:type="fragment:StringModelFragment" xmi:id="_Kk-AsN9fEeemteQQKA3H5w" featurename="bindingTables" parentElementId="org.eclipse.e4.legacy.ide.application">
+    <elements xsi:type="commands:BindingTable" xmi:id="_O9I60N9fEeemteQQKA3H5w" elementId="bug469595.bindingtable.0">
+      <bindings xmi:id="_9_52QN9hEeemteQQKA3H5w" elementId="bug469595.keybinding.0" keySequence="M1+J" command="_0EBg4N_uEeeqnLGY5AXP9g"/>
+    </elements>
+  </fragments>
+  <fragments xsi:type="fragment:StringModelFragment" xmi:id="_FKE4UN_uEeeqnLGY5AXP9g" featurename="handlers" parentElementId="org.eclipse.ui.console.ConsoleView">
+    <elements xsi:type="commands:Handler" xmi:id="_NYt4QN_vEeeqnLGY5AXP9g" elementId="bug469595.handler.0" contributionURI="bundleclass://bug469595/bug469595.AboutHandler" command="_0EBg4N_uEeeqnLGY5AXP9g"/>
+  </fragments>
+</fragment:ModelFragments>

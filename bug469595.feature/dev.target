@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?pde version="3.8"?><target name="dev" sequenceNumber="1">
+<locations>
+<location includeAllPlatforms="false" includeConfigurePhase="true" includeMode="planner" includeSource="true" type="InstallableUnit">
+<unit id="com.google.guava" version="0.0.0"/>
+<unit id="org.eclipse.platform.ide" version="4.8.0.I20171030-0400"/>
+<repository location="http://download.eclipse.org/releases/photon"/>
+</location>
+</locations>
+</target>
