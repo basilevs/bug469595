@@ -4,7 +4,7 @@
   <imports xsi:type="commands:Command" xmi:id="_0EBg4N_uEeeqnLGY5AXP9g" elementId="org.eclipse.ui.help.aboutAction"/>
   <imports xsi:type="commands:BindingContext" xmi:id="_kplPUN_yEeeqnLGY5AXP9g" elementId="org.eclipse.ui.console.ConsoleView"/>
   <fragments xsi:type="fragment:StringModelFragment" xmi:id="_Kk-AsN9fEeemteQQKA3H5w" featurename="bindingTables" parentElementId="org.eclipse.e4.legacy.ide.application">
-    <elements xsi:type="commands:BindingTable" xmi:id="_O9I60N9fEeemteQQKA3H5w" elementId="bug469595.bindingtable.0">
+    <elements xsi:type="commands:BindingTable" xmi:id="_O9I60N9fEeemteQQKA3H5w" elementId="bug469595.bindingtable.0" bindingContext="_kplPUN_yEeeqnLGY5AXP9g">
       <bindings xmi:id="_9_52QN9hEeemteQQKA3H5w" elementId="bug469595.keybinding.0" keySequence="M1+J" command="_0EBg4N_uEeeqnLGY5AXP9g"/>
     </elements>
   </fragments>
